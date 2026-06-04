@@ -1,5 +1,3 @@
-# interview-prep-skill
-一个面试准备的 Claude skill
 # interview-prep ｜ 面试准备 Skill
 
 一个用于 [Claude](https://claude.ai) 的 Skill：针对某个**具体岗位**，自动产出一整套面试准备材料——定制化的自我介绍，加上最可能被问到的面试问题及准备要点。
